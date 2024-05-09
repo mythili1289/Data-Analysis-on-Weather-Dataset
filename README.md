@@ -1,1 +1,2 @@
-# Data-Analysis-on-Weather-Dataset
+This project aims to perform data analysis on a weather dataset using Python libraries like NumPy and Pandas. By leveraging these tools, we gain insights into various aspects of the weather data, enabling us to answer basic questions and understand trends.
+Understanding weather patterns and trends is crucial for various industries, from agriculture to tourism. By analyzing historical weather data, we can identify patterns, trends, and anomalies, which can inform decision-making processes and improve planning strategies.
